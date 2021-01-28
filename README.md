@@ -19,5 +19,4 @@ Afim de desenvolver minhas habilidades como Cientista de Dados, usarei este espa
 
 ## Projetos Desenvolvidos:
 
-
-* **Analisando dados resumidos do Airbnb** 
+* **Analisando dados resumidos do Airbnb** (https://bit.ly/2MyiDgh) 
